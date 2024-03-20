@@ -18,4 +18,10 @@ npm run tauri build
 
 npm run tauri dev
 ```
+Check tauri site if different package manager
+[tauri site](https://tauri.app/v1/api/cli)
+
+
+
+
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
